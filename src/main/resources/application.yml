@@ -1,0 +1,20 @@
+
+server:
+  port: 8090
+
+com:
+  name: 猪猪
+  thing: 鼠年吉祥
+
+person:
+  personName: 张三
+  age: 17
+  boss: False
+  maps: {k1: v1,k2: v2}
+  lists:
+    - a
+    - b
+    - c
+  dog:
+    name: 阿毛
+    age: 2
