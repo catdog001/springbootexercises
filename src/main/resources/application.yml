@@ -10,11 +10,14 @@ person:
   personName: 张三
   age: 17
   boss: False
+  # map
   maps: {k1: v1,k2: v2}
+  # 列表
   lists:
     - a
     - b
     - c
+  # 对象配置
   dog:
     name: 阿毛
     age: 2
