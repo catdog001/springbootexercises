@@ -1,0 +1,23 @@
+# person.yml 配置文件格式
+server:
+  port: 8090
+
+com:
+  name: 猪猪
+  thing: 鼠年吉祥
+
+person:
+  personName: 李四
+  age: 17
+  boss: False
+  # map
+  maps: {k1: v1,k2: v2}
+  # 列表
+  lists:
+    - a
+    - b
+    - c
+  # 对象配置
+  dog:
+    name: 阿毛
+    age: 2
